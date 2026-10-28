@@ -1,0 +1,11 @@
+RCL
+Copyright 2026 Alfonso Leal Davison
+
+This product is a derivative work of Sill (https://github.com/Saffsanity/sill),
+Copyright 2026 Noah Saffer, licensed under the Apache License, Version 2.0.
+
+RCL modifies Sill's source files and adds new ones; the git history records
+every change made after the fork. RCL is not affiliated with Sill or endorsed
+by its author, and "Sill" is not used as RCL's name.
+
+RCL is distributed under the Apache License, Version 2.0 (see LICENSE).

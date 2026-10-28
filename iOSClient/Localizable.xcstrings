@@ -1,0 +1,6485 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        }
+      }
+    },
+    " · " : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " · "
+          }
+        }
+      }
+    },
+    " a window to close, minimize or go full screen. Keep holding and drag to move it." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " una ventana para cerrarla, minimizarla o ponerla en pantalla completa. Sigue manteniendo y arrastra para moverla."
+          }
+        }
+      }
+    },
+    " at %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " en %@"
+          }
+        }
+      }
+    },
+    " Away from home, this %@ asks for %lld fps, which halves the data your Mac sends." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : " Away from home, this %1$@ asks for %2$lld fps, which halves the data your Mac sends."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " Fuera de casa, este %1$@ pide %2$lld fps, lo que reduce a la mitad los datos que envía tu Mac."
+          }
+        }
+      }
+    },
+    " for a trackpad and keys." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " para un trackpad y teclas."
+          }
+        }
+      }
+    },
+    " Four-finger swipes and a Magic Keyboard trackpad’s gestures stay with iPadOS." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " Los deslizamientos con cuatro dedos y los gestos del trackpad de un Magic Keyboard se quedan en iPadOS."
+          }
+        }
+      }
+    },
+    " has actions: close, minimize, full screen, and move left or right. Swipe up or down to hear them." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " tiene acciones: cerrar, minimizar, pantalla completa y mover a la izquierda o a la derecha. Desliza hacia arriba o hacia abajo para escucharlas."
+          }
+        }
+      }
+    },
+    " is at the bottom of Settings." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " está al final de Ajustes."
+          }
+        }
+      }
+    },
+    " is there too, to see this again." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " también está ahí, para volver a ver esto."
+          }
+        }
+      }
+    },
+    " It needs version %@ or later." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " Necesita la versión %@ o posterior."
+          }
+        }
+      }
+    },
+    " lists the apps on %@: tap an open one again for its next window." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " muestra las apps de %@: toca una abierta otra vez para ver su siguiente ventana."
+          }
+        }
+      }
+    },
+    " lists the apps on %@. Choose an open one again for its next window." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " muestra las apps de %@. Elige una abierta otra vez para ver su siguiente ventana."
+          }
+        }
+      }
+    },
+    " Low Power Mode holds this %@ to %lld fps." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : " Low Power Mode holds this %1$@ to %2$lld fps."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " El Modo de bajo consumo limita este %1$@ a %2$lld fps."
+          }
+        }
+      }
+    },
+    " makes a window’s text on %@ larger or smaller. Swipe up or down on it." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " agranda o reduce el texto de una ventana en %@. Desliza hacia arriba o hacia abajo sobre él."
+          }
+        }
+      }
+    },
+    " on the trackpad to right-click." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " en el trackpad para hacer clic secundario."
+          }
+        }
+      }
+    },
+    " stay on for the next key or trackpad click: tap cmd, then C, to copy." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " se quedan activas para la siguiente tecla o clic del trackpad: toca cmd y luego C para copiar."
+          }
+        }
+      }
+    },
+    " stay on for the next key: cmd, then C, copies." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " se quedan activas para la siguiente tecla: cmd y luego C copia."
+          }
+        }
+      }
+    },
+    " the trackpad, " : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " el trackpad, "
+          }
+        }
+      }
+    },
+    " They show again when you disconnect." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " Vuelven a aparecer cuando te desconectas."
+          }
+        }
+      }
+    },
+    " This %@ is connected directly: turning this off disconnects it." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " Este %@ está conectado directamente: si desactivas esto, se desconecta."
+          }
+        }
+      }
+    },
+    " This %@ shows up to %lld fps." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : " This %1$@ shows up to %2$lld fps."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " Este %1$@ muestra hasta %2$lld fps."
+          }
+        }
+      }
+    },
+    " to click." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " para hacer clic."
+          }
+        }
+      }
+    },
+    " to right-click." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " para hacer clic secundario."
+          }
+        }
+      }
+    },
+    " to scroll." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " para desplazarte."
+          }
+        }
+      }
+    },
+    " types on %@, on screen or with a hardware keyboard." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " escribe en %@, en pantalla o con un teclado físico."
+          }
+        }
+      }
+    },
+    " While a window streams, a gesture shows the Desktop first, and the opposite gesture closes what one opened. %@ does these with its own keyboard shortcuts: one turned off in its Keyboard settings does nothing." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " Mientras se transmite una ventana, un gesto muestra primero el Escritorio, y el gesto contrario cierra lo que se abrió. %@ los hace con sus propias funciones rápidas de teclado: si una está desactivada en sus ajustes de Teclado, no hace nada."
+          }
+        }
+      }
+    },
+    " works as a mouse." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " funciona como un mouse."
+          }
+        }
+      }
+    },
+    ", %.2f s after the picture" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", %.2f s después de la imagen"
+          }
+        }
+      }
+    },
+    ", %lld millisecond round trip" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", %lld milisegundos de ida y vuelta"
+          }
+        }
+      }
+    },
+    ", away quality, %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", calidad fuera de casa, %@"
+          }
+        }
+      }
+    },
+    ", connected %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", conectada %@"
+          }
+        }
+      }
+    },
+    ", home quality, %@, because a device at home is connected" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", calidad de casa, %@, porque hay un dispositivo conectado en casa"
+          }
+        }
+      }
+    },
+    ", on the virtual display" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", en la pantalla virtual"
+          }
+        }
+      }
+    },
+    ", showing now" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", mostrándose ahora"
+          }
+        }
+      }
+    },
+    ", to move a window or select text." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", para mover una ventana o seleccionar texto."
+          }
+        }
+      }
+    },
+    ": touch it and slide to make a window’s text larger or smaller." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ": tócalo y desliza para agrandar o reducir el texto de una ventana."
+          }
+        }
+      }
+    },
+    "%@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        }
+      }
+    },
+    "%@ (Wi‑Fi)" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ (Wi‑Fi)"
+          }
+        }
+      }
+    },
+    "%@ (wired)" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ (por cable)"
+          }
+        }
+      }
+    },
+    "%@ answered, but RCL isn’t accepting remote connections there. Check that RCL is open and Remote Access is on. If you changed its port, connect at home once." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ respondió, pero RCL no acepta conexiones remotas ahí. Revisa que RCL esté abierto y que Acceso remoto esté activado. Si cambiaste su puerto, conéctate una vez en casa."
+          }
+        }
+      }
+    },
+    "%@ closed the connection. RCL will reconnect when it can." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ cerró la conexión. RCL se reconectará cuando pueda."
+          }
+        }
+      }
+    },
+    "%@ closed the connection. Tap it to try again." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ cerró la conexión. Tócala para intentar de nuevo."
+          }
+        }
+      }
+    },
+    "%@ Didn’t Answer" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ no respondió"
+          }
+        }
+      }
+    },
+    "%@ didn’t answer at %@. If your home’s internet address changed, connect at home once to update it, or add an address name on the Mac." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ didn’t answer at %2$@. If your home’s internet address changed, connect at home once to update it, or add an address name on the Mac."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ no respondió en %2$@. Si cambió la dirección de internet de tu casa, conéctate una vez en casa para actualizarla, o agrega un nombre de dirección en la Mac."
+          }
+        }
+      }
+    },
+    "%@ didn’t answer. Check that RCL is open on it, then tap it again." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ no respondió. Revisa que RCL esté abierto en ella y vuelve a tocarla."
+          }
+        }
+      }
+    },
+    "%@ didn’t answer. It may be asleep, or %@ may be off on the Mac." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ didn’t answer. It may be asleep, or %2$@ may be off on the Mac."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ no respondió. Puede estar en reposo, o %2$@ puede estar desactivado en la Mac."
+          }
+        }
+      }
+    },
+    "%@ didn’t answer. It may be asleep." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ no respondió. Puede estar en reposo."
+          }
+        }
+      }
+    },
+    "%@ didn’t answer. Open the menu again." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ no respondió. Abre el menú de nuevo."
+          }
+        }
+      }
+    },
+    "%@ didn’t answer. Try again." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ no respondió. Intenta de nuevo."
+          }
+        }
+      }
+    },
+    "%@ didn’t show a code by itself. On the Mac, choose Pair iPhone or iPad… in the RCL menu." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ no mostró un código por sí sola. En la Mac, elige Enlazar iPhone o iPad… en el menú de RCL."
+          }
+        }
+      }
+    },
+    "%@ didn’t show a code. On the Mac, choose Pair iPhone or iPad… in the RCL menu, then tap %@ again." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ didn’t show a code. On the Mac, choose Pair iPhone or iPad… in the RCL menu, then tap %2$@ again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ no mostró un código. En la Mac, elige Enlazar iPhone o iPad… en el menú de RCL y vuelve a tocar %2$@."
+          }
+        }
+      }
+    },
+    "%@ disconnected. It will reconnect when the Mac is back." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ se desconectó. Se reconectará cuando la Mac vuelva."
+          }
+        }
+      }
+    },
+    "%@ disconnected. RCL will reconnect when it can reach it." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ se desconectó. RCL se reconectará cuando pueda alcanzarla."
+          }
+        }
+      }
+    },
+    "%@ has a new key since this %@ paired. Tap it to pair again." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ has a new key since this %2$@ paired. Tap it to pair again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ tiene una clave nueva desde que este %2$@ se enlazó. Tócala para enlazar de nuevo."
+          }
+        }
+      }
+    },
+    "%@ is already serving 8 devices." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ ya está atendiendo a 8 dispositivos."
+          }
+        }
+      }
+    },
+    "%@ is locked" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ está bloqueada"
+          }
+        }
+      }
+    },
+    "%@ is saved. Tap it to connect." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ está guardada. Tócala para conectarte."
+          }
+        }
+      }
+    },
+    "%@ is showing a code now." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ está mostrando un código ahora."
+          }
+        }
+      }
+    },
+    "%@ is showing a code. Point this %@ at it." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ is showing a code. Point this %2$@ at it."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ está mostrando un código. Apunta este %2$@ hacia él."
+          }
+        }
+      }
+    },
+    "%@ is shutting down, restarting or logging out. This %@ reconnects when it’s back." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ is shutting down, restarting or logging out. This %2$@ reconnects when it’s back."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ se está apagando, reiniciando o cerrando sesión. Este %2$@ se reconecta cuando vuelva."
+          }
+        }
+      }
+    },
+    "%@ isn’t answering. It may be asleep. RCL keeps trying, or tap it to try now." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ no responde. Puede estar en reposo. RCL sigue intentando, o tócala para intentar ahora."
+          }
+        }
+      }
+    },
+    "%@ isn’t pairing right now. On your Mac, choose Pair iPhone or iPad… first." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ no está enlazando ahora. En tu Mac, elige primero Enlazar iPhone o iPad…."
+          }
+        }
+      }
+    },
+    "%@ isn’t responding." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ no responde."
+          }
+        }
+      }
+    },
+    "%@ kept its setting" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ conservó su ajuste"
+          }
+        }
+      }
+    },
+    "%@ lets devices connect without pairing. Pair this %@ once to keep connecting if that changes, and to reach %@ away from home while Remote Access is on. %@ shows a code; scan it with this %@." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ lets devices connect without pairing. Pair this %2$@ once to keep connecting if that changes, and to reach %3$@ away from home while Remote Access is on. %4$@ shows a code; scan it with this %5$@."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ deja que los dispositivos se conecten sin enlazar. Enlaza este %2$@ una vez para seguir conectándote si eso cambia, y para llegar a %3$@ fuera de casa mientras Acceso remoto esté activado. %4$@ muestra un código; escanéalo con este %5$@."
+          }
+        }
+      }
+    },
+    "%@ looks off on this %@. Turn it on, then tap %@." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ looks off on this %2$@. Turn it on, then tap %3$@."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ parece desactivado en este %2$@. Actívalo y luego toca %3$@."
+          }
+        }
+      }
+    },
+    "%@ megabits per second" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ megabits por segundo"
+          }
+        }
+      }
+    },
+    "%@ menus" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menús de %@"
+          }
+        }
+      }
+    },
+    "%@ no longer accepts this %@. Pair it again from RCL’s Settings on the Mac." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ no longer accepts this %2$@. Pair it again from RCL’s Settings on the Mac."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ ya no acepta este %2$@. Enlázalo de nuevo desde los Ajustes de RCL en la Mac."
+          }
+        }
+      }
+    },
+    "%@ now asks devices to pair. Tap it to pair this %@." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ now asks devices to pair. Tap it to pair this %2$@."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ ahora pide a los dispositivos que se enlacen. Tócala para enlazar este %2$@."
+          }
+        }
+      }
+    },
+    "%@ on the network answered with another key (-9808)" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ en la red respondió con otra clave (-9808)"
+          }
+        }
+      }
+    },
+    "%@ on the network is another launch of RCL, or another Mac" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ en la red es otra instancia de RCL, u otra Mac"
+          }
+        }
+      }
+    },
+    "%@ quit RCL. This %@ reconnects when it’s back." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ quit RCL. This %2$@ reconnects when it’s back."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ cerró RCL. Este %2$@ se reconecta cuando vuelva."
+          }
+        }
+      }
+    },
+    "%@ removed this %@. Tap it to pair again." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ removed this %2$@. Tap it to pair again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ eliminó este %2$@. Tócala para enlazar de nuevo."
+          }
+        }
+      }
+    },
+    "%@ removed this %@. To use it again, pair it again." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ removed this %2$@. To use it again, pair it again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ eliminó este %2$@. Para volver a usarlo, enlázalo de nuevo."
+          }
+        }
+      }
+    },
+    "%@ runs an older RCL. Update RCL on the Mac to connect." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ tiene un RCL antiguo. Actualiza RCL en la Mac para conectarte."
+          }
+        }
+      }
+    },
+    "%@ sends no more pixels than this %@ shows: less data and less work for the Mac, the same sharpness here. Off: the Mac’s Retina or Standard, as set above." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ sends no more pixels than this %2$@ shows: less data and less work for the Mac, the same sharpness here. Off: the Mac’s Retina or Standard, as set above."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ no manda más pixeles de los que muestra este %2$@: menos datos y menos trabajo para la Mac, con la misma nitidez aquí. Apagado: el Retina o Estándar de la Mac, como esté arriba."
+          }
+        }
+      }
+    },
+    "%@ stopped accepting connections from the internet. Connect through your VPN." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ dejó de aceptar conexiones desde internet. Conéctate a través de tu VPN."
+          }
+        }
+      }
+    },
+    "%@ stopped pairing after too many wrong codes. Choose Pair iPhone or iPad… on your Mac for a new code." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ dejó de enlazar después de demasiados códigos incorrectos. Elige Enlazar iPhone o iPad… en tu Mac para obtener un código nuevo."
+          }
+        }
+      }
+    },
+    "%@ stopped pairing after too many wrong codes. On the Mac, choose Pair iPhone or iPad… in the RCL menu, then tap %@ again." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ stopped pairing after too many wrong codes. On the Mac, choose Pair iPhone or iPad… in the RCL menu, then tap %2$@ again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ dejó de enlazar después de demasiados códigos incorrectos. En la Mac, elige Enlazar iPhone o iPad… en el menú de RCL y vuelve a tocar %2$@."
+          }
+        }
+      }
+    },
+    "%@ times" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ veces"
+          }
+        }
+      }
+    },
+    "%@ turned off Remote Access." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ desactivó Acceso remoto."
+          }
+        }
+      }
+    },
+    "%@ went to sleep. This %@ reconnects when it wakes." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ went to sleep. This %2$@ reconnects when it wakes."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ entró en reposo. Este %2$@ se reconecta cuando despierte."
+          }
+        }
+      }
+    },
+    "%@ window" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ventana de %@"
+          }
+        }
+      }
+    },
+    "%@ window actions" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acciones de la ventana de %@"
+          }
+        }
+      }
+    },
+    "%@, %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@, %2$@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@, %2$@"
+          }
+        }
+      }
+    },
+    "%@, held. Tap to release." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@, mantenida. Toca para soltar."
+          }
+        }
+      }
+    },
+    "%@, hold for the next key" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@, se mantiene para la siguiente tecla"
+          }
+        }
+      }
+    },
+    "%@, not paired" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@, sin enlazar"
+          }
+        }
+      }
+    },
+    "%@, Remote" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@, remota"
+          }
+        }
+      }
+    },
+    "%@, step %lld of %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@, step %2$lld of %3$lld"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@, paso %2$lld de %3$lld"
+          }
+        }
+      }
+    },
+    "%@. Show all windows" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@. Ver todas las ventanas"
+          }
+        }
+      }
+    },
+    "%@. Show the bar" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@. Mostrar la barra"
+          }
+        }
+      }
+    },
+    "%@. Windows" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@. Ventanas"
+          }
+        }
+      }
+    },
+    "%@’s hardware encoder is busy or not responding, so for now streams run at up to 60 fps at Standard." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El codificador de hardware de %@ está ocupado o no responde, así que por ahora se transmite a 60 fps como máximo en Estándar."
+          }
+        }
+      }
+    },
+    "%@’s own screens go black while this %@ works on it, so nobody near it sees what you do. " : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@’s own screens go black while this %2$@ works on it, so nobody near it sees what you do. "
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Las pantallas de %1$@ se ponen negras mientras este %2$@ la usa, para que nadie cerca vea lo que haces. "
+          }
+        }
+      }
+    },
+    "%@’s Password" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contraseña de %@"
+          }
+        }
+      }
+    },
+    "%@’s RCL is too old for this %@." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@’s RCL is too old for this %2$@."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El RCL de %1$@ es demasiado antiguo para este %2$@."
+          }
+        }
+      }
+    },
+    "%1$@ sends no more pixels than this %2$@ shows: less data and less work for the Mac, the same sharpness here. Off: the Mac’s Retina or Standard, as set above." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ no manda más pixeles de los que muestra este %2$@: menos datos y menos trabajo para la Mac, con la misma nitidez aquí. Apagado: el Retina o Estándar de la Mac, como esté arriba."
+          }
+        }
+      }
+    },
+    "%lld" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld"
+          }
+        }
+      }
+    },
+    "%lld %% of %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld %% of %2$@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld %% de %2$@"
+          }
+        }
+      }
+    },
+    "%lld milliseconds" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld milisegundos"
+          }
+        }
+      }
+    },
+    "%lld more on the Mac" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld más en la Mac"
+          }
+        }
+      }
+    },
+    "%lld windows" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld ventanas"
+          }
+        }
+      }
+    },
+    "⇧ Shift" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⇧ Mayúsculas"
+          }
+        }
+      }
+    },
+    "⌃ Control" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⌃ Control"
+          }
+        }
+      }
+    },
+    "⌘ Command" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⌘ Comando"
+          }
+        }
+      }
+    },
+    "⌥ Option" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⌥ Opción"
+          }
+        }
+      }
+    },
+    "1 window" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 ventana"
+          }
+        }
+      }
+    },
+    "30 fps" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 fps"
+          }
+        }
+      }
+    },
+    "60 fps" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "60 fps"
+          }
+        }
+      }
+    },
+    "100.101.102.103 or mac.example.net" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100.101.102.103 o mac.example.net"
+          }
+        }
+      }
+    },
+    "120 fps" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "120 fps"
+          }
+        }
+      }
+    },
+    "A code has 12 digits." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un código tiene 12 dígitos."
+          }
+        }
+      }
+    },
+    "A device at home is connected, so %@ streams at its home quality, %@. What you choose here applies once every device is away." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "A device at home is connected, so %1$@ streams at its home quality, %2$@. What you choose here applies once every device is away."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hay un dispositivo conectado en casa, así que %1$@ transmite con su calidad de casa, %2$@. Lo que elijas aquí se aplica cuando todos los dispositivos estén fuera de casa."
+          }
+        }
+      }
+    },
+    "a Paste did not reach the Mac" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "un Pegar no llegó a la Mac"
+          }
+        }
+      }
+    },
+    "a remote session moves only home, once the network lists its Mac" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "una sesión remota solo se mueve a casa, cuando la red muestra su Mac"
+          }
+        }
+      }
+    },
+    "A short tour of RCL’s controls on this %@." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un recorrido breve por los controles de RCL en este %@."
+          }
+        }
+      }
+    },
+    "a turn" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "un giro"
+          }
+        }
+      }
+    },
+    "a window's lights were open" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "los botones de una ventana estaban abiertos"
+          }
+        }
+      }
+    },
+    "Aa" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aa"
+          }
+        }
+      }
+    },
+    "Add" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregar"
+          }
+        }
+      }
+    },
+    "Add a Mac" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregar una Mac"
+          }
+        }
+      }
+    },
+    "Add a Mac…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregar una Mac…"
+          }
+        }
+      }
+    },
+    "Add Custom Shortcut" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregar atajo personalizado"
+          }
+        }
+      }
+    },
+    "Address" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dirección"
+          }
+        }
+      }
+    },
+    "after %lld failure%@ in a row" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "after %1$lld failure%2$@ in a row"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "después de %1$lld fallo%2$@ seguidos"
+          }
+        }
+      }
+    },
+    "All apps" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todas las apps"
+          }
+        }
+      }
+    },
+    "Also looking nearby" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "También buscando cerca"
+          }
+        }
+      }
+    },
+    "Also looks for a Mac with Direct Wireless Connection turned on, without a Wi‑Fi network." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "También busca una Mac con Conexión inalámbrica directa activada, sin red Wi‑Fi."
+          }
+        }
+      }
+    },
+    "Always" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siempre"
+          }
+        }
+      }
+    },
+    "App" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App"
+          }
+        }
+      }
+    },
+    "App Exposé" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App Exposé"
+          }
+        }
+      }
+    },
+    "Apple Pencil" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Pencil"
+          }
+        }
+      }
+    },
+    "Applies to every device streaming from %@. The stream restarts for a moment." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se aplica a todos los dispositivos que transmiten desde %@. La transmisión se reinicia un momento."
+          }
+        }
+      }
+    },
+    "Apps" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apps"
+          }
+        }
+      }
+    },
+    "Asking %@ for a code…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pidiendo un código a %@…"
+          }
+        }
+      }
+    },
+    "Automatic Quality" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calidad automática"
+          }
+        }
+      }
+    },
+    "Away from home" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fuera de casa"
+          }
+        }
+      }
+    },
+    "Away from Home" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fuera de casa"
+          }
+        }
+      }
+    },
+    "Away from home, %@ streams at %@." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Away from home, %1$@ streams at %2$@."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fuera de casa, %1$@ transmite en %2$@."
+          }
+        }
+      }
+    },
+    "Away from home, %@ streams at what you choose here and keeps it for next time. At home it goes back to %@." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Away from home, %1$@ streams at what you choose here and keeps it for next time. At home it goes back to %2$@."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fuera de casa, %1$@ transmite con lo que elijas aquí y lo conserva para la próxima vez. En casa vuelve a %2$@."
+          }
+        }
+      }
+    },
+    "Away from home, connects over QUIC first, which copes better with a weak signal, and over the usual connection if QUIC doesn’t answer. Applies to the next connection." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fuera de casa, primero se conecta por QUIC, que aguanta mejor una señal débil, y por la conexión de siempre si QUIC no responde. Aplica a la siguiente conexión."
+          }
+        }
+      }
+    },
+    "Away from home, RCL reaches %@ %@." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Away from home, RCL reaches %1$@ %2$@."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fuera de casa, RCL llega a %1$@ %2$@."
+          }
+        }
+      }
+    },
+    "Away: %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fuera de casa: %@"
+          }
+        }
+      }
+    },
+    "back from the background" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "de vuelta del segundo plano"
+          }
+        }
+      }
+    },
+    "Balanced" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Equilibrada"
+          }
+        }
+      }
+    },
+    "Below the bar: the row of keys, then the trackpad." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Debajo de la barra: la fila de teclas y luego el trackpad."
+          }
+        }
+      }
+    },
+    "Blanks the Mac’s own screens while you work on it from here, or shows them again." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pone en negro las pantallas de la Mac mientras trabajas en ella desde aquí, o las vuelve a mostrar."
+          }
+        }
+      }
+    },
+    "Bold" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Negritas"
+          }
+        }
+      }
+    },
+    "Browse and send files without showing the Mac’s screen." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Explora y envía archivos sin mostrar la pantalla de la Mac."
+          }
+        }
+      }
+    },
+    "by address" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "por dirección"
+          }
+        }
+      }
+    },
+    "cable: no, %@ has %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "cable: no, %1$@ has %2$@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "cable: no, %1$@ tiene %2$@"
+          }
+        }
+      }
+    },
+    "cable: no, %@ has no address" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "cable: no, %@ no tiene dirección"
+          }
+        }
+      }
+    },
+    "cable: no, %@ is not wired Ethernet" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "cable: no, %@ no es Ethernet por cable"
+          }
+        }
+      }
+    },
+    "cable: no, %@ is this device’s own address" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "cable: no, %@ es la dirección de este dispositivo"
+          }
+        }
+      }
+    },
+    "cable: no, the Mac has a name, not an address" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "cable: no, la Mac tiene un nombre, no una dirección"
+          }
+        }
+      }
+    },
+    "cable: no, the Mac’s address %@ is not IPv6 link-local" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "cable: no, la dirección de la Mac %@ no es IPv6 de enlace local"
+          }
+        }
+      }
+    },
+    "cable: no, the Mac’s address names no interface" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "cable: no, la dirección de la Mac no indica ninguna interfaz"
+          }
+        }
+      }
+    },
+    "cable: no, the path names no address" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "cable: no, la ruta no indica ninguna dirección"
+          }
+        }
+      }
+    },
+    "cable: yes, %@ carries only link-local addresses" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "cable: sí, %@ solo tiene direcciones de enlace local"
+          }
+        }
+      }
+    },
+    "Camera. Point it at the code on %@." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cámara. Apúntala al código en %@."
+          }
+        }
+      }
+    },
+    "Camera. Point it at the code on your Mac." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cámara. Apúntala al código en tu Mac."
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelar"
+          }
+        }
+      }
+    },
+    "carried to %@ (%lld of %lld, %@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "carried to %1$@ (%2$lld of %3$lld, %4$@)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "llevado a %1$@ (%2$lld de %3$lld, %4$@)"
+          }
+        }
+      }
+    },
+    "Change %@’s Password…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cambiar la contraseña de %@…"
+          }
+        }
+      }
+    },
+    "Change this on %@, or from a device near it." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cambia esto en %@, o desde un dispositivo cercano."
+          }
+        }
+      }
+    },
+    "Close settings" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerrar ajustes"
+          }
+        }
+      }
+    },
+    "Close the app list" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerrar la lista de apps"
+          }
+        }
+      }
+    },
+    "Close window" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerrar ventana"
+          }
+        }
+      }
+    },
+    "Close Window" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerrar ventana"
+          }
+        }
+      }
+    },
+    "closed (Take the Tour; nothing more saved)" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "cerrado (Hacer el recorrido; no se guardó nada más)"
+          }
+        }
+      }
+    },
+    "cmd, opt, ctrl and shift" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "cmd, opt, ctrl y shift"
+          }
+        }
+      }
+    },
+    "Code" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Código"
+          }
+        }
+      }
+    },
+    "Colors as the Mac shows them, with smooth gradients, for checking a design’s color. Uses a little more of the connection; the Mac’s software encoder ignores it." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Los colores como los muestra la Mac, con degradados suaves, para revisar el color de un diseño. Usa un poco más de la conexión; el codificador de software de la Mac no lo usa."
+          }
+        }
+      }
+    },
+    "Command, Option, Control and Shift stay on for the next key or trackpad click: tap Command, then C, to copy." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comando, Opción, Control y Mayúsculas se quedan activas para la siguiente tecla o clic del trackpad: toca Comando y luego C para copiar."
+          }
+        }
+      }
+    },
+    "Command, Option, Control and Shift stay on for the next key: Command, then C, copies." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comando, Opción, Control y Mayúsculas se quedan activas para la siguiente tecla: Comando y luego C copia."
+          }
+        }
+      }
+    },
+    "Compact Controls" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Controles compactos"
+          }
+        }
+      }
+    },
+    "Connect" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conectar"
+          }
+        }
+      }
+    },
+    "Connect Remotely" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conectar de forma remota"
+          }
+        }
+      }
+    },
+    "connect screen" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "pantalla de conexión"
+          }
+        }
+      }
+    },
+    "Connect to a Mac" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conectarse a una Mac"
+          }
+        }
+      }
+    },
+    "Connect to Mac" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conectar a la Mac"
+          }
+        }
+      }
+    },
+    "Connected %@ · %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Connected %1$@ · %2$@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conectada %1$@ · %2$@"
+          }
+        }
+      }
+    },
+    "Connected %@." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conectado %@."
+          }
+        }
+      }
+    },
+    "connected by cable" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "conectado por cable"
+          }
+        }
+      }
+    },
+    "connected directly" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "conectado directamente"
+          }
+        }
+      }
+    },
+    "connected over Wi-Fi" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "conectado por Wi-Fi"
+          }
+        }
+      }
+    },
+    "Connected to %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conectado a %@"
+          }
+        }
+      }
+    },
+    "Connecting to %@ directly…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conectando a %@ directamente…"
+          }
+        }
+      }
+    },
+    "Connecting to %@ remotely…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conectando a %@ de forma remota…"
+          }
+        }
+      }
+    },
+    "Connecting to %@…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conectando a %@…"
+          }
+        }
+      }
+    },
+    "Connecting…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conectando…"
+          }
+        }
+      }
+    },
+    "Connection %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conexión %@"
+          }
+        }
+      }
+    },
+    "Connects through your VPN or the internet." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se conecta a través de tu VPN o de internet."
+          }
+        }
+      }
+    },
+    "Connects without a shared Wi‑Fi network" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se conecta sin una red Wi‑Fi compartida"
+          }
+        }
+      }
+    },
+    "Connects without pairing: %@ lets any device in." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se conecta sin enlazar: %@ deja entrar a cualquier dispositivo."
+          }
+        }
+      }
+    },
+    "Continuing on this %@…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuando en este %@…"
+          }
+        }
+      }
+    },
+    "Copy" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copiar"
+          }
+        }
+      }
+    },
+    "Couldn’t choose %@. %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Couldn’t choose %1$@. %2$@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se pudo elegir %1$@. %2$@"
+          }
+        }
+      }
+    },
+    "Couldn’t continue the session. Tap your Mac to connect." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se pudo continuar la sesión. Toca tu Mac para conectarte."
+          }
+        }
+      }
+    },
+    "Custom" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Personalizada"
+          }
+        }
+      }
+    },
+    "Cut" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cortar"
+          }
+        }
+      }
+    },
+    "Desktop" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escritorio"
+          }
+        }
+      }
+    },
+    "Desktop %lld" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escritorio %lld"
+          }
+        }
+      }
+    },
+    "did not connect in %lf s" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "no se conectó en %lf s"
+          }
+        }
+      }
+    },
+    "Didn’t reach %@. Try Paste again." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No llegó a %@. Intenta Pegar de nuevo."
+          }
+        }
+      }
+    },
+    "Direct" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Directa"
+          }
+        }
+      }
+    },
+    "Direct Wireless Connection" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conexión inalámbrica directa"
+          }
+        }
+      }
+    },
+    "Disconnect" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desconectar"
+          }
+        }
+      }
+    },
+    "Disconnect from %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desconectar de %@"
+          }
+        }
+      }
+    },
+    "Dismiss" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descartar"
+          }
+        }
+      }
+    },
+    "Dock On/Off" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activar/desactivar Dock"
+          }
+        }
+      }
+    },
+    "Done" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Listo"
+          }
+        }
+      }
+    },
+    "done (saved: %@%@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "done (saved: %1$@%2$@)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "listo (guardado: %1$@%2$@)"
+          }
+        }
+      }
+    },
+    "Down arrow" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flecha abajo"
+          }
+        }
+      }
+    },
+    "Downloads it to this %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lo descarga en este %@"
+          }
+        }
+      }
+    },
+    "Drag to move the pointer. Tap to click, two fingers to scroll." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arrastra para mover el puntero. Toca para hacer clic, dos dedos para desplazarte."
+          }
+        }
+      }
+    },
+    "Duplicate" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Duplicar"
+          }
+        }
+      }
+    },
+    "Each window" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cada ventana"
+          }
+        }
+      }
+    },
+    "Edit Shortcuts…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editar atajos…"
+          }
+        }
+      }
+    },
+    "Efficient" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eficiente"
+          }
+        }
+      }
+    },
+    "Emoji" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Emoji"
+          }
+        }
+      }
+    },
+    "ended by %@: nothing of it here (%@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "ended by %1$@: nothing of it here (%2$@)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "terminado por %1$@: nada de eso aquí (%2$@)"
+          }
+        }
+      }
+    },
+    "Ends the tour. Take the Tour in Settings shows it again." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Termina el recorrido. Hacer el recorrido en Ajustes lo muestra de nuevo."
+          }
+        }
+      }
+    },
+    "English" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "English"
+          }
+        }
+      }
+    },
+    "Enter Code Instead" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingresar código"
+          }
+        }
+      }
+    },
+    "Enter the Code from %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingresa el código de %@"
+          }
+        }
+      }
+    },
+    "Esc" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esc"
+          }
+        }
+      }
+    },
+    "Extreme" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Extrema"
+          }
+        }
+      }
+    },
+    "F%u" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "F%u"
+          }
+        }
+      }
+    },
+    "failed (%@)" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "falló (%@)"
+          }
+        }
+      }
+    },
+    "Files" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Archivos"
+          }
+        }
+      }
+    },
+    "Files on %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Archivos en %@"
+          }
+        }
+      }
+    },
+    "Fill" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Llenar"
+          }
+        }
+      }
+    },
+    "Find" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscar"
+          }
+        }
+      }
+    },
+    "Floating Pill" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Píldora flotante"
+          }
+        }
+      }
+    },
+    "Force Quit" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forzar salida"
+          }
+        }
+      }
+    },
+    "Forget %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Olvidar %@"
+          }
+        }
+      }
+    },
+    "Forget the Password" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Olvidar la contraseña"
+          }
+        }
+      }
+    },
+    "Forgot %@. It still lists this %@ until you remove it in RCL’s Settings on the Mac." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Forgot %1$@. It still lists this %2$@ until you remove it in RCL’s Settings on the Mac."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se olvidó %1$@. Seguirá mostrando este %2$@ hasta que lo elimines en los Ajustes de RCL en la Mac."
+          }
+        }
+      }
+    },
+    "Frame Rate" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuadros por segundo"
+          }
+        }
+      }
+    },
+    "From %@ · in Files › RCL" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De %@ · en Archivos › RCL"
+          }
+        }
+      }
+    },
+    "Full screen" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pantalla completa"
+          }
+        }
+      }
+    },
+    "Full Screen" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pantalla completa"
+          }
+        }
+      }
+    },
+    "Get Files from %@…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obtener archivos de %@…"
+          }
+        }
+      }
+    },
+    "Goes where %@’s cursor is, as if typed there." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Va donde está el cursor de %@, como si se escribiera ahí."
+          }
+        }
+      }
+    },
+    "Handoff" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Handoff"
+          }
+        }
+      }
+    },
+    "Held sideways, the picture fills the screen and a small pill floats in a corner: tap the app’s name for all the windows, large, or the controls beside it for the bar. Drag the pill to any corner." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De lado, la imagen llena la pantalla y una píldora flota en una esquina: toca el nombre de la app para ver todas las ventanas en grande, o los controles junto a él para la barra. Arrastra la píldora a cualquier esquina."
+          }
+        }
+      }
+    },
+    "Held sideways, the picture fills the screen and a small pill floats in a corner. Tap it, or rest the pointer on it, and it widens into the whole bar; its app’s name lists the windows. Drag the pill to any corner." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De lado, la imagen llena la pantalla y una píldora flota en una esquina. Tócala, o deja el puntero sobre ella, y se ensancha con toda la barra; el nombre de la app muestra las ventanas. Arrastra la píldora a cualquier esquina."
+          }
+        }
+      }
+    },
+    "Held sideways, the picture takes the bar’s place. Tap or pull down the handle at the top to bring the bar over the picture; it goes back up by itself, or swipe it up." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De lado, la imagen ocupa el lugar de la barra. Toca o jala hacia abajo el control de arriba para traer la barra sobre la imagen; se vuelve a subir sola, o deslízala hacia arriba."
+          }
+        }
+      }
+    },
+    "Held upright, a window’s picture takes the place of the window thumbnails and reaches down to where the keyboard comes up. The Desktop keeps the thumbnails. Switch windows with Apps: tap an open app again for its next window. To fill the taller picture with a window, set its text size with Aa. A change applies when you close Settings." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En vertical, la imagen de una ventana ocupa el lugar de las miniaturas de ventanas y llega hasta donde aparece el teclado. El Escritorio conserva las miniaturas. Cambia de ventana con Apps: toca una app abierta otra vez para ver su siguiente ventana. Para llenar la imagen más alta con una ventana, ajusta su tamaño de texto con Aa. Un cambio se aplica al cerrar Ajustes."
+          }
+        }
+      }
+    },
+    "Held upright: one row of buttons at the bottom, a taller picture with the magnifier, and the keys just above the keyboard. Your windows are in Apps. The magnifier’s level: Fill makes the picture as tall as its pane; a pinch on the picture sets a level too. Off: the thumbnails and the key row as before." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En vertical: una fila de botones abajo, una imagen más alta con la lupa y las teclas justo arriba del teclado. Tus ventanas están en Apps. El nivel de la lupa: Llenar hace la imagen tan alta como su espacio; pellizcar la imagen también fija un nivel. Desactivado: las miniaturas y la fila de teclas como antes."
+          }
+        }
+      }
+    },
+    "Hide %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ocultar %@"
+          }
+        }
+      }
+    },
+    "Hide App" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ocultar app"
+          }
+        }
+      }
+    },
+    "Hide the Bar" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ocultar la barra"
+          }
+        }
+      }
+    },
+    "Hide the keyboard" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ocultar el teclado"
+          }
+        }
+      }
+    },
+    "High" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alta"
+          }
+        }
+      }
+    },
+    "Hold your %@ upright" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pon tu %@ en vertical"
+          }
+        }
+      }
+    },
+    "Home quality: %@ (a device at home is connected)" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calidad de casa: %@ (hay un dispositivo conectado en casa)"
+          }
+        }
+      }
+    },
+    "In the bar at the top, after Apps." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En la barra de arriba, después de Apps."
+          }
+        }
+      }
+    },
+    "In the bar below the picture, after Apps." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En la barra debajo de la imagen, después de Apps."
+          }
+        }
+      }
+    },
+    "Internet" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Internet"
+          }
+        }
+      }
+    },
+    "is waiting (%@)" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "está esperando (%@)"
+          }
+        }
+      }
+    },
+    "It could not be read, or it is larger than %@." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se pudo leer, o pesa más de %@."
+          }
+        }
+      }
+    },
+    "Italic" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cursivas"
+          }
+        }
+      }
+    },
+    "its address" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "su dirección"
+          }
+        }
+      }
+    },
+    "its name" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "su nombre"
+          }
+        }
+      }
+    },
+    "Key (a letter or a digit)" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tecla (una letra o un dígito)"
+          }
+        }
+      }
+    },
+    "Keyboard" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teclado"
+          }
+        }
+      }
+    },
+    "Keys and Trackpad" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teclas y trackpad"
+          }
+        }
+      }
+    },
+    "Language" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Idioma"
+          }
+        }
+      }
+    },
+    "Larger Picture" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Imagen más grande"
+          }
+        }
+      }
+    },
+    "Left arrow" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flecha izquierda"
+          }
+        }
+      }
+    },
+    "Lets devices reach %@ without a shared Wi‑Fi network, the way AirDrop does. While it’s on, streaming over Wi‑Fi can stutter." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Permite que los dispositivos lleguen a %@ sin una red Wi‑Fi compartida, como AirDrop. Mientras está activada, la transmisión por Wi‑Fi puede entrecortarse."
+          }
+        }
+      }
+    },
+    "Level" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nivel"
+          }
+        }
+      }
+    },
+    "Loading settings…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cargando ajustes…"
+          }
+        }
+      }
+    },
+    "Lock Screen" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bloquear pantalla"
+          }
+        }
+      }
+    },
+    "Looking for Macs on this network" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscando Macs en esta red"
+          }
+        }
+      }
+    },
+    "Looking for Macs on this network and nearby" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscando Macs en esta red y cerca"
+          }
+        }
+      }
+    },
+    "Low" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Baja"
+          }
+        }
+      }
+    },
+    "Lower latency when %@ is busy, at a softer picture." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menos retraso cuando %@ está ocupada, con una imagen menos nítida."
+          }
+        }
+      }
+    },
+    "Mac" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mac"
+          }
+        }
+      }
+    },
+    "Mac Desktop" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escritorio de la Mac"
+          }
+        }
+      }
+    },
+    "Mac Screenshot" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Captura de la Mac"
+          }
+        }
+      }
+    },
+    "Mac Sound" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sonido de la Mac"
+          }
+        }
+      }
+    },
+    "Magnifier" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lupa"
+          }
+        }
+      }
+    },
+    "Magnifier off" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lupa desactivada"
+          }
+        }
+      }
+    },
+    "Magnifier on" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lupa activada"
+          }
+        }
+      }
+    },
+    "Match This Screen" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajustar a esta pantalla"
+          }
+        }
+      }
+    },
+    "Menus" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menús"
+          }
+        }
+      }
+    },
+    "met another key (-9808)" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "encontró otra clave (-9808)"
+          }
+        }
+      }
+    },
+    "Minimize" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minimizar"
+          }
+        }
+      }
+    },
+    "Minimize window" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minimizar ventana"
+          }
+        }
+      }
+    },
+    "Mission Control" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mission Control"
+          }
+        }
+      }
+    },
+    "More" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Más"
+          }
+        }
+      }
+    },
+    "More buttons" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Más botones"
+          }
+        }
+      }
+    },
+    "Move Down" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bajar"
+          }
+        }
+      }
+    },
+    "Move left" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mover a la izquierda"
+          }
+        }
+      }
+    },
+    "Move right" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mover a la derecha"
+          }
+        }
+      }
+    },
+    "Move Up" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Subir"
+          }
+        }
+      }
+    },
+    "Name" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nombre"
+          }
+        }
+      }
+    },
+    "New" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nuevo"
+          }
+        }
+      }
+    },
+    "New Tab" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nueva pestaña"
+          }
+        }
+      }
+    },
+    "No items" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sin elementos"
+          }
+        }
+      }
+    },
+    "no pong on the direct connection" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "sin pong en la conexión directa"
+          }
+        }
+      }
+    },
+    "no pong on the old connection" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "sin pong en la conexión anterior"
+          }
+        }
+      }
+    },
+    "no pong on the remote connection" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "sin pong en la conexión remota"
+          }
+        }
+      }
+    },
+    "Not connected." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sin conexión."
+          }
+        }
+      }
+    },
+    "Not paired" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sin enlazar"
+          }
+        }
+      }
+    },
+    "Not streaming" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sin transmitir"
+          }
+        }
+      }
+    },
+    "not this session: %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "no en esta sesión: %@"
+          }
+        }
+      }
+    },
+    "not this session: used within a second of %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "no en esta sesión: se usó a menos de un segundo de %@"
+          }
+        }
+      }
+    },
+    "Nothing answered at %@. Check the address, and that RCL is open on your Mac." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nada respondió en %@. Revisa la dirección y que RCL esté abierto en tu Mac."
+          }
+        }
+      }
+    },
+    "nothing owed here (%@; seen: %@%@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "nothing owed here (%1$@; seen: %2$@%3$@)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "nada pendiente aquí (%1$@; visto: %2$@%3$@)"
+          }
+        }
+      }
+    },
+    "Nothing you copy goes between this %1$@ and %2$@ while this is off." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mientras esto esté desactivado, nada de lo que copies pasa entre este %1$@ y %2$@."
+          }
+        }
+      }
+    },
+    "Off" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desactivado"
+          }
+        }
+      }
+    },
+    "Off now." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desactivado."
+          }
+        }
+      }
+    },
+    "On" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activado"
+          }
+        }
+      }
+    },
+    "On its side, RCL adds keys and a trackpad." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De lado, RCL agrega teclas y un trackpad."
+          }
+        }
+      }
+    },
+    "On now." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activado."
+          }
+        }
+      }
+    },
+    "on the cable" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "por cable"
+          }
+        }
+      }
+    },
+    "on the cable, which the network no longer lists; its pongs say it works" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "por el cable, que la red ya no muestra; sus pongs dicen que funciona"
+          }
+        }
+      }
+    },
+    "On the virtual display" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En la pantalla virtual"
+          }
+        }
+      }
+    },
+    "on Wi‑Fi, and the Mac is on no cable" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "en Wi‑Fi, y la Mac no está en ningún cable"
+          }
+        }
+      }
+    },
+    "On your Mac, choose Pair iPhone or iPad… in the RCL menu, then point this %@ at the code." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En tu Mac, elige Enlazar iPhone o iPad… en el menú de RCL y luego apunta este %@ al código."
+          }
+        }
+      }
+    },
+    "One Window" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una ventana"
+          }
+        }
+      }
+    },
+    "Only pair with a code your own Mac shows." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enlaza solo con un código que muestre tu propia Mac."
+          }
+        }
+      }
+    },
+    "Open" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir"
+          }
+        }
+      }
+    },
+    "Open an App on the Mac" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir una app en la Mac"
+          }
+        }
+      }
+    },
+    "Open App…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir app…"
+          }
+        }
+      }
+    },
+    "Open now" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abierta ahora"
+          }
+        }
+      }
+    },
+    "Open Settings" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir Ajustes"
+          }
+        }
+      }
+    },
+    "Open Spotlight on the Mac" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir Spotlight en la Mac"
+          }
+        }
+      }
+    },
+    "Open the app list" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir la lista de apps"
+          }
+        }
+      }
+    },
+    "Opens RCL and connects to a paired Mac." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abre RCL y se conecta a una Mac emparejada."
+          }
+        }
+      }
+    },
+    "Opens Settings" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abre Ajustes"
+          }
+        }
+      }
+    },
+    "Opens the App Store." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abre el App Store."
+          }
+        }
+      }
+    },
+    "Opens the folder" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abre la carpeta"
+          }
+        }
+      }
+    },
+    "over Direct, the session moves only to the network" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "por conexión directa, la sesión solo se mueve a la red"
+          }
+        }
+      }
+    },
+    "over the internet" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "por internet"
+          }
+        }
+      }
+    },
+    "over the internet (%@)" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "por internet (%@)"
+          }
+        }
+      }
+    },
+    "Pair" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enlazar"
+          }
+        }
+      }
+    },
+    "Pair once to reach %@ through your VPN or the internet. %@ shows a code; scan it with this %@." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pair once to reach %1$@ through your VPN or the internet. %2$@ shows a code; scan it with this %3$@."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enlaza una vez para llegar a %1$@ a través de tu VPN o de internet. %2$@ muestra un código; escanéalo con este %3$@."
+          }
+        }
+      }
+    },
+    "Pair once, and RCL reaches your Mac from anywhere, through your VPN or the internet." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enlaza una vez y RCL llegará a tu Mac desde cualquier lugar, a través de tu VPN o de internet."
+          }
+        }
+      }
+    },
+    "Pair This %@…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enlazar este %@…"
+          }
+        }
+      }
+    },
+    "Pair with %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enlazar con %@"
+          }
+        }
+      }
+    },
+    "Pair with %@ at %@?" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pair with %1$@ at %2$@?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Enlazar con %1$@ en %2$@?"
+          }
+        }
+      }
+    },
+    "Paired" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enlazado"
+          }
+        }
+      }
+    },
+    "Paired with %@ over the cable." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enlazado con %@ por cable."
+          }
+        }
+      }
+    },
+    "Paired with %@." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enlazado con %@."
+          }
+        }
+      }
+    },
+    "Pairing didn’t finish: %@ couldn’t show it knows the code." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El enlace no terminó: %@ no pudo demostrar que conoce el código."
+          }
+        }
+      }
+    },
+    "Pairing didn’t finish: %@ couldn’t show it knows the code. Tap it to try again." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El enlace no terminó: %@ no pudo demostrar que conoce el código. Tócala para intentar de nuevo."
+          }
+        }
+      }
+    },
+    "Pairing didn’t finish: the Mac at %@ couldn’t show it knows the code. Pair from the same network as your Mac, or scan the code instead." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El enlace no terminó: la Mac en %@ no pudo demostrar que conoce el código. Enlaza desde la misma red que tu Mac, o escanea el código."
+          }
+        }
+      }
+    },
+    "Pairing with %@ over the cable…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enlazando con %@ por cable…"
+          }
+        }
+      }
+    },
+    "Pairing with %@…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enlazando con %@…"
+          }
+        }
+      }
+    },
+    "Pairs over the USB cable, then connects." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se enlaza por el cable USB y luego se conecta."
+          }
+        }
+      }
+    },
+    "Pairs this %@ with a Mac so you can reach it away from home." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enlaza este %@ con una Mac para que puedas llegar a ella fuera de casa."
+          }
+        }
+      }
+    },
+    "Pairs with a code %@ shows, then connects." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se enlaza con un código que muestra %@ y luego se conecta."
+          }
+        }
+      }
+    },
+    "passed %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "pasó %@"
+          }
+        }
+      }
+    },
+    "Password" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contraseña"
+          }
+        }
+      }
+    },
+    "Paste" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pegar"
+          }
+        }
+      }
+    },
+    "Paste on %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pegar en %@"
+          }
+        }
+      }
+    },
+    "Paste on %@ is available, near the bar." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pegar en %@ está disponible, junto a la barra."
+          }
+        }
+      }
+    },
+    "Paste on %1$@. Sends what you copied on this %2$@ to %3$@’s clipboard. Then press Command-V there." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pegar en %1$@. Manda lo que copiaste en este %2$@ al portapapeles de %3$@. Luego presiona Comando-V allá."
+          }
+        }
+      }
+    },
+    "path: the move's connection failed: %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ruta: la conexión del cambio falló: %@"
+          }
+        }
+      }
+    },
+    "Picture" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Imagen"
+          }
+        }
+      }
+    },
+    "Picture Only" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solo imagen"
+          }
+        }
+      }
+    },
+    "Plays the sound of what streams from %@ on this %@: a window’s app, or everything on the Desktop. %@ keeps playing it too." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Plays the sound of what streams from %1$@ on this %2$@: a window’s app, or everything on the Desktop. %3$@ keeps playing it too."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reproduce en este %2$@ el sonido de lo que se transmite desde %1$@: la app de una ventana, o todo en el Escritorio. %3$@ también lo sigue reproduciendo."
+          }
+        }
+      }
+    },
+    "Point at the code on %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apunta al código en %@"
+          }
+        }
+      }
+    },
+    "Point at the code on your Mac" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apunta al código en tu Mac"
+          }
+        }
+      }
+    },
+    "Print" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Imprimir"
+          }
+        }
+      }
+    },
+    "Prioritize Encoding Speed" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Priorizar velocidad de codificación"
+          }
+        }
+      }
+    },
+    "Privacy" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacidad"
+          }
+        }
+      }
+    },
+    "Private Mode" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modo privado"
+          }
+        }
+      }
+    },
+    "Private Mode on" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modo privado activado"
+          }
+        }
+      }
+    },
+    "Pull down to try again, or check that you’re still connected." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jala hacia abajo para intentar de nuevo, o revisa que sigas conectado."
+          }
+        }
+      }
+    },
+    "put aside for the pairing overlay, at %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "apartado para la superposición de enlace, en %@"
+          }
+        }
+      }
+    },
+    "Quality" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calidad"
+          }
+        }
+      }
+    },
+    "Quality is per 60 fps; a 120 fps stream gets twice as much. " : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La calidad es por 60 fps; una transmisión de 120 fps recibe el doble. "
+          }
+        }
+      }
+    },
+    "quality lowered automatically" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "calidad reducida automáticamente"
+          }
+        }
+      }
+    },
+    "QUIC Away from Home (Test)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "QUIC fuera de casa (prueba)"
+          }
+        }
+      }
+    },
+    "Quit" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salir"
+          }
+        }
+      }
+    },
+    "Quit %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salir de %@"
+          }
+        }
+      }
+    },
+    "Quit App" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salir de la app"
+          }
+        }
+      }
+    },
+    "RCL became active" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RCL se activó"
+          }
+        }
+      }
+    },
+    "RCL can use another language than this device." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RCL puede usar un idioma distinto al de este dispositivo."
+          }
+        }
+      }
+    },
+    "RCL can’t use the camera. Enter the code instead, or allow the camera in Settings." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RCL no puede usar la cámara. Ingresa el código, o permite la cámara en Ajustes."
+          }
+        }
+      }
+    },
+    "RCL changes language the next time it opens: close it from the app switcher and open it again." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RCL cambia de idioma la próxima vez que se abra: ciérrala desde el selector de apps y vuelve a abrirla."
+          }
+        }
+      }
+    },
+    "RCL didn’t open in time. Try again." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RCL no se abrió a tiempo. Inténtalo de nuevo."
+          }
+        }
+      }
+    },
+    "RCL isn’t connected to a Mac. Connect first, then try again." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RCL no está conectado a una Mac. Conéctate primero e inténtalo de nuevo."
+          }
+        }
+      }
+    },
+    "RCL: %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RCL: %@"
+          }
+        }
+      }
+    },
+    "Reconnecting to %@ directly…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reconectando a %@ directamente…"
+          }
+        }
+      }
+    },
+    "Reconnecting to %@ remotely…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reconectando a %@ de forma remota…"
+          }
+        }
+      }
+    },
+    "Reconnecting to %@…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reconectando a %@…"
+          }
+        }
+      }
+    },
+    "Redo" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rehacer"
+          }
+        }
+      }
+    },
+    "relay" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "relevo"
+          }
+        }
+      }
+    },
+    "Reload" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recargar"
+          }
+        }
+      }
+    },
+    "Remote" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remota"
+          }
+        }
+      }
+    },
+    "remote: the move home's connection failed: %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "remoto: la conexión del regreso a casa falló: %@"
+          }
+        }
+      }
+    },
+    "remote:%@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "remoto:%@"
+          }
+        }
+      }
+    },
+    "Remove the part after %: it only works on this network." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quita la parte después de %: solo funciona en esta red."
+          }
+        }
+      }
+    },
+    "Resolution" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resolución"
+          }
+        }
+      }
+    },
+    "Retina" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retina"
+          }
+        }
+      }
+    },
+    "Return" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retorno"
+          }
+        }
+      }
+    },
+    "Return on %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retorno en %@"
+          }
+        }
+      }
+    },
+    "Right arrow" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flecha derecha"
+          }
+        }
+      }
+    },
+    "Same as This Device" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Igual que el dispositivo"
+          }
+        }
+      }
+    },
+    "Save" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardar"
+          }
+        }
+      }
+    },
+    "Save %@’s Password…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardar la contraseña de %@…"
+          }
+        }
+      }
+    },
+    "Save Password…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardar contraseña…"
+          }
+        }
+      }
+    },
+    "Saves what the Mac shows in RCL to Photos." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guarda en Fotos lo que la Mac muestra en RCL."
+          }
+        }
+      }
+    },
+    "Scan Code Instead" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escanear código"
+          }
+        }
+      }
+    },
+    "Scan the Code on %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escanea el código en %@"
+          }
+        }
+      }
+    },
+    "Screenshot" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Captura de pantalla"
+          }
+        }
+      }
+    },
+    "Screenshot Area" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Capturar área"
+          }
+        }
+      }
+    },
+    "Screenshot saved in Files, On My %@, RCL." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Captura guardada en Archivos, En mi %@, RCL."
+          }
+        }
+      }
+    },
+    "Screenshot saved in Files, On My %@, RCL. Allow Photos for RCL to save it there." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Captura guardada en Archivos, En mi %@, RCL. Permite Fotos para RCL para guardarla ahí."
+          }
+        }
+      }
+    },
+    "Screenshot saved to Photos" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Captura guardada en Fotos"
+          }
+        }
+      }
+    },
+    "Screenshot to Photos" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Captura a Fotos"
+          }
+        }
+      }
+    },
+    "Screenshot Tools" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Herramientas de captura"
+          }
+        }
+      }
+    },
+    "Search apps on %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscar apps en %@"
+          }
+        }
+      }
+    },
+    "Search apps on this Mac" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscar apps en esta Mac"
+          }
+        }
+      }
+    },
+    "Search Nearby" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscar cerca"
+          }
+        }
+      }
+    },
+    "Section" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sección"
+          }
+        }
+      }
+    },
+    "Select All" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleccionar todo"
+          }
+        }
+      }
+    },
+    "Send" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enviar"
+          }
+        }
+      }
+    },
+    "Send + ⏎" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enviar + ⏎"
+          }
+        }
+      }
+    },
+    "Send Files" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enviar archivos"
+          }
+        }
+      }
+    },
+    "Send Files to %@…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enviar archivos a %@…"
+          }
+        }
+      }
+    },
+    "Send Photos" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enviar fotos"
+          }
+        }
+      }
+    },
+    "Send Photos and Videos…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enviar fotos y videos…"
+          }
+        }
+      }
+    },
+    "Send, then Return" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enviar y luego Retorno"
+          }
+        }
+      }
+    },
+    "Sends what you copied on this %1$@ to %2$@’s clipboard." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manda lo que copiaste en este %1$@ al portapapeles de %2$@."
+          }
+        }
+      }
+    },
+    "Sent to %@: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sent to %1$@: %2$@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enviado a %1$@: %2$@"
+          }
+        }
+      }
+    },
+    "Sent to %@’s clipboard. Press ⌘V there." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enviado al portapapeles de %@. Presiona ⌘V allá."
+          }
+        }
+      }
+    },
+    "Sent to %@’s clipboard. Press Command-V there." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enviado al portapapeles de %@. Presiona Comando-V allá."
+          }
+        }
+      }
+    },
+    "Sent to %@’s Downloads" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enviado a Descargas de %@"
+          }
+        }
+      }
+    },
+    "Settings" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajustes"
+          }
+        }
+      }
+    },
+    "Settings for %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajustes de %@"
+          }
+        }
+      }
+    },
+    "Settings was open" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajustes estaba abierto"
+          }
+        }
+      }
+    },
+    "Share %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compartir %@"
+          }
+        }
+      }
+    },
+    "Share Clipboard" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compartir portapapeles"
+          }
+        }
+      }
+    },
+    "Shortcuts" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atajos"
+          }
+        }
+      }
+    },
+    "Show beside the window streaming now" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar junto a la ventana que se transmite ahora"
+          }
+        }
+      }
+    },
+    "Show Desktop" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar Escritorio"
+          }
+        }
+      }
+    },
+    "Show one window again" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar una sola ventana otra vez"
+          }
+        }
+      }
+    },
+    "Show the bar" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar la barra"
+          }
+        }
+      }
+    },
+    "Show the full Mac desktop" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar todo el escritorio de la Mac"
+          }
+        }
+      }
+    },
+    "Show the keyboard" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar el teclado"
+          }
+        }
+      }
+    },
+    "Show the Mac’s Desktop" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar el escritorio de la Mac"
+          }
+        }
+      }
+    },
+    "Show the Mac’s next display" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar la siguiente pantalla de la Mac"
+          }
+        }
+      }
+    },
+    "showing %@ (%lld of %lld)%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "showing %1$@ (%2$lld of %3$lld)%4$@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mostrando %1$@ (%2$lld de %3$lld)%4$@"
+          }
+        }
+      }
+    },
+    "Shown" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrado"
+          }
+        }
+      }
+    },
+    "Shows how to use RCL on this %@." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Muestra cómo usar RCL en este %@."
+          }
+        }
+      }
+    },
+    "Shows the picture alone, filling the screen." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Muestra solo la imagen, llenando la pantalla."
+          }
+        }
+      }
+    },
+    "Side by Side" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lado a lado"
+          }
+        }
+      }
+    },
+    "skipped (saved%@)" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "omitido (guardado%@)"
+          }
+        }
+      }
+    },
+    "Slim Bar" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Barra delgada"
+          }
+        }
+      }
+    },
+    "Slim Bar: half as tall, symbols only, for a bar you leave showing. The buttons you turn off are under More." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Barra delgada: la mitad de alta y sólo con íconos, para dejarla siempre visible. Los botones que desactives quedan en Más."
+          }
+        }
+      }
+    },
+    "Something answered at %@, but it isn’t RCL, or its RCL is too old to pair." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Algo respondió en %@, pero no es RCL, o su RCL es demasiado antiguo para enlazar."
+          }
+        }
+      }
+    },
+    "Something answered at %@, but it isn’t RCL. Your home’s internet address may have changed." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Algo respondió en %@, pero no es RCL. Puede que haya cambiado la dirección de internet de tu casa."
+          }
+        }
+      }
+    },
+    "Space" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Espacio"
+          }
+        }
+      }
+    },
+    "Space on the Left" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Espacio a la izquierda"
+          }
+        }
+      }
+    },
+    "Space on the Right" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Espacio a la derecha"
+          }
+        }
+      }
+    },
+    "Spotlight" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spotlight"
+          }
+        }
+      }
+    },
+    "Standard" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estándar"
+          }
+        }
+      }
+    },
+    "Stop sending %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dejar de enviar %@"
+          }
+        }
+      }
+    },
+    "Stopped trying to reach %@. Tap it to try again." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se dejó de intentar llegar a %@. Tócala para intentar de nuevo."
+          }
+        }
+      }
+    },
+    "stream screen" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "pantalla de transmisión"
+          }
+        }
+      }
+    },
+    "Streaming %lld by %lld, %lld frames per second, %lld megabits per second" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Streaming %1$lld by %2$lld, %3$lld frames per second, %4$lld megabits per second"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Transmitiendo %1$lld por %2$lld, %3$lld cuadros por segundo, %4$lld megabits por segundo"
+          }
+        }
+      }
+    },
+    "Swipe Down" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deslizar hacia abajo"
+          }
+        }
+      }
+    },
+    "Swipe Left or Right" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deslizar a la izquierda o a la derecha"
+          }
+        }
+      }
+    },
+    "Swipe Up" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deslizar hacia arriba"
+          }
+        }
+      }
+    },
+    "Switching to Wi‑Fi…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cambiando a Wi‑Fi…"
+          }
+        }
+      }
+    },
+    "Tailscale is carrying this connection through its relay (%@), not directly, so it's slower. A direct path usually comes back on its own; if not, try another network (a phone's hotspot), or on the router let UDP through or turn on UPnP." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tailscale lleva esta conexión por su relevo (%@), no directo, y por eso va más lenta. La conexión directa suele volver sola; si no, prueba otra red (el punto de acceso de un teléfono), o en el router permite UDP o activa UPnP."
+          }
+        }
+      }
+    },
+    "Take a Screenshot of the Mac" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Capturar la pantalla de la Mac"
+          }
+        }
+      }
+    },
+    "Take the Tour" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hacer el recorrido"
+          }
+        }
+      }
+    },
+    "Tap the code to try again." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toca el código para intentar de nuevo."
+          }
+        }
+      }
+    },
+    "Tap with two fingers" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toca con dos dedos"
+          }
+        }
+      }
+    },
+    "Tap, Hold and Drag" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tocar, mantener y arrastrar"
+          }
+        }
+      }
+    },
+    "Text and images you copy on %1$@ are ready to paste on this %2$@. To paste on %3$@, copy here, tap Paste, then press ⌘V there." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Los textos e imágenes que copies en %1$@ quedan listos para pegar en este %2$@. Para pegar en %3$@, copia aquí, toca Pegar y luego presiona ⌘V allá."
+          }
+        }
+      }
+    },
+    "Text size" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tamaño del texto"
+          }
+        }
+      }
+    },
+    "That app isn’t on the Mac." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esa app no está en la Mac."
+          }
+        }
+      }
+    },
+    "That code didn’t work. Check the code on your Mac. %lld tries left." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ese código no funcionó. Revisa el código en tu Mac. Quedan %lld intentos."
+          }
+        }
+      }
+    },
+    "That code didn’t work. Check the code on your Mac. 1 try left." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ese código no funcionó. Revisa el código en tu Mac. Queda 1 intento."
+          }
+        }
+      }
+    },
+    "That code expired. Tap %@ for a new one." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ese código caducó. Toca %@ para obtener uno nuevo."
+          }
+        }
+      }
+    },
+    "That code has a typo. Check it against your Mac." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ese código tiene un error. Compáralo con el de tu Mac."
+          }
+        }
+      }
+    },
+    "That code no longer works. On the Mac, choose Pair iPhone or iPad… in the RCL menu, then tap %@ again." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ese código ya no funciona. En la Mac, elige Enlazar iPhone o iPad… en el menú de RCL y vuelve a tocar %@."
+          }
+        }
+      }
+    },
+    "That doesn’t look like an address. Try 100.101.102.103 or mac.example.net." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eso no parece una dirección. Prueba 100.101.102.103 o mac.example.net."
+          }
+        }
+      }
+    },
+    "That’s not a RCL code." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ese no es un código de RCL."
+          }
+        }
+      }
+    },
+    "the Aa ruler was open" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "la regla de Aa estaba abierta"
+          }
+        }
+      }
+    },
+    "the app was not active" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "la app no estaba activa"
+          }
+        }
+      }
+    },
+    "the Apps list was open" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "la lista de apps estaba abierta"
+          }
+        }
+      }
+    },
+    "the cable appeared; waiting for it to settle" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "apareció el cable; esperando a que se estabilice"
+          }
+        }
+      }
+    },
+    "the cable is up, but the last move to it did not complete; the next waits longer" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "el cable está conectado, pero el último cambio a él no se completó; el siguiente espera más"
+          }
+        }
+      }
+    },
+    "the cable is up, but the last move to it was under 5 s ago" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "el cable está conectado, pero el último cambio a él fue hace menos de 5 s"
+          }
+        }
+      }
+    },
+    "the cable reaches another Mac, or another launch of RCL; not tried again until it is plugged in again" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "el cable llega a otra Mac, u otra instancia de RCL; no se vuelve a intentar hasta que se conecte de nuevo"
+          }
+        }
+      }
+    },
+    "the cable went away with the connection: reconnecting over Wi‑Fi on %@ now" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "el cable desapareció con la conexión: reconectando por Wi‑Fi en %@ ahora"
+          }
+        }
+      }
+    },
+    "the cable went away, and the Mac is not on Wi‑Fi" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "el cable desapareció, y la Mac no está en Wi‑Fi"
+          }
+        }
+      }
+    },
+    "the cable went away, but the last move to Wi‑Fi was under 5 s ago" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "el cable desapareció, pero el último cambio a Wi‑Fi fue hace menos de 5 s"
+          }
+        }
+      }
+    },
+    "the cable went away: moving to Wi‑Fi on %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "el cable desapareció: cambiando a Wi‑Fi en %@"
+          }
+        }
+      }
+    },
+    "the direct connection closed" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "la conexión directa se cerró"
+          }
+        }
+      }
+    },
+    "the home door's kind 18 is not this Mac's, or older than this session's" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "el kind 18 de la puerta de casa no es de esta Mac, o es más antiguo que el de esta sesión"
+          }
+        }
+      }
+    },
+    "the internet" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "internet"
+          }
+        }
+      }
+    },
+    "The keyboard key" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La tecla del teclado"
+          }
+        }
+      }
+    },
+    "the keyboard was up" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "el teclado estaba arriba"
+          }
+        }
+      }
+    },
+    "The last button in the bar." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El último botón de la barra."
+          }
+        }
+      }
+    },
+    "The last button in the row under the picture." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El último botón de la fila debajo de la imagen."
+          }
+        }
+      }
+    },
+    "The link can’t carry %@, which %@ keeps while a device at home is connected." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The link can’t carry %1$@, which %2$@ keeps while a device at home is connected."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La conexión no aguanta %1$@, que %2$@ mantiene mientras haya un dispositivo conectado en casa."
+          }
+        }
+      }
+    },
+    "The link can’t carry %@. %@ is recommended." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The link can’t carry %1$@. %2$@ is recommended."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La conexión no aguanta %1$@. Se recomienda %2$@."
+          }
+        }
+      }
+    },
+    "The link can’t keep up with %@. Lower it in Settings." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La conexión no da abasto con %@. Bájala en Ajustes."
+          }
+        }
+      }
+    },
+    "The link to %@ can’t keep up." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La conexión con %@ no da abasto."
+          }
+        }
+      }
+    },
+    "The link to %@ is too slow for a steady picture, even at Low." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La conexión con %@ es demasiado lenta para una imagen estable, incluso en Baja."
+          }
+        }
+      }
+    },
+    "the Mac" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "la Mac"
+          }
+        }
+      }
+    },
+    "The Mac" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La Mac"
+          }
+        }
+      }
+    },
+    "The Mac at %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La Mac en %@"
+          }
+        }
+      }
+    },
+    "the Mac has read all the direct connection carried" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "la Mac leyó todo lo que llevó la conexión directa"
+          }
+        }
+      }
+    },
+    "The Mac took no screenshot." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La Mac no tomó ninguna captura de pantalla."
+          }
+        }
+      }
+    },
+    "The menus changed. Open the menu again." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Los menús cambiaron. Abre el menú de nuevo."
+          }
+        }
+      }
+    },
+    "the pairing overlay was open" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "la superposición de enlace estaba abierta"
+          }
+        }
+      }
+    },
+    "The password you type on %@’s lock screen. It stays on this device, in the Keychain, and RCL types it for you after Face ID." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La contraseña que escribes en la pantalla bloqueada de %@. Se queda en este dispositivo, en el llavero, y RCL la escribe por ti después de Face ID."
+          }
+        }
+      }
+    },
+    "the picture" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "la imagen"
+          }
+        }
+      }
+    },
+    "The picture fills the screen, with no bar, keys or trackpad, for watching a video or reading. Tap the handle at the top to bring them back." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La imagen llena la pantalla, sin barra, teclas ni trackpad, para ver un video o leer. Toca el control de arriba para que vuelvan."
+          }
+        }
+      }
+    },
+    "The picture is arriving slowly from %@. Choose Low quality or Standard resolution." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La imagen llega lenta desde %@. Elige calidad Baja o resolución Estándar."
+          }
+        }
+      }
+    },
+    "The picture magnified around the pointer, following it as it moves; the bar’s magnifier button turns it on and off. A pinch on the picture sets the level too." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La imagen ampliada alrededor del puntero y siguiéndolo al moverse; el botón de lupa de la barra la activa y desactiva. Pellizcar la imagen también fija el nivel."
+          }
+        }
+      }
+    },
+    "The picture of %@ fills the screen below the bar." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La imagen de %@ llena la pantalla debajo de la barra."
+          }
+        }
+      }
+    },
+    "The picture of %@ fills the top half of the screen." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La imagen de %@ llena la mitad superior de la pantalla."
+          }
+        }
+      }
+    },
+    "The picture of %@ is at the top of the screen." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La imagen de %@ está en la parte superior de la pantalla."
+          }
+        }
+      }
+    },
+    "the row as listed" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "la fila tal como aparece"
+          }
+        }
+      }
+    },
+    "the session started" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "la sesión empezó"
+          }
+        }
+      }
+    },
+    "the session's path is not known" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "no se conoce la ruta de la sesión"
+          }
+        }
+      }
+    },
+    "the turn" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "el giro"
+          }
+        }
+      }
+    },
+    "The window you pick moves onto an invisible display on %@ while it streams, so it keeps updating when covered." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La ventana que elijas pasa a una pantalla invisible en %@ mientras se transmite, para que siga actualizándose aunque esté tapada."
+          }
+        }
+      }
+    },
+    "then drag" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "y luego arrastra"
+          }
+        }
+      }
+    },
+    "Then press ⌘V there." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Luego presiona ⌘V allá."
+          }
+        }
+      }
+    },
+    "They go to %@’s Downloads folder. You can also drop files on the picture, or share them to RCL from any app. What %@ sends this %@ is in Files, On My %@, RCL." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "They go to %1$@’s Downloads folder. You can also drop files on the picture, or share them to RCL from any app. What %2$@ sends this %3$@ is in Files, On My %4$@, RCL."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Van a la carpeta Descargas de %1$@. También puedes soltar archivos sobre la imagen o compartirlos a RCL desde cualquier app. Lo que %2$@ manda a este %3$@ está en Archivos, En mi %4$@, RCL."
+          }
+        }
+      }
+    },
+    "This %@ can’t look up %@." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "This %1$@ can’t look up %2$@."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Este %1$@ no puede encontrar %2$@."
+          }
+        }
+      }
+    },
+    "This %@ can’t look up %@. Is Tailscale on?" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "This %1$@ can’t look up %2$@. Is Tailscale on?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Este %1$@ no puede encontrar %2$@. ¿Está activado Tailscale?"
+          }
+        }
+      }
+    },
+    "This %@ couldn’t make its key (%@)." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "This %1$@ couldn’t make its key (%2$@)."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Este %1$@ no pudo crear su clave (%2$@)."
+          }
+        }
+      }
+    },
+    "This %@ has no key for %@. Pair it again." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "This %1$@ has no key for %2$@. Pair it again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Este %1$@ no tiene clave para %2$@. Enlázalo de nuevo."
+          }
+        }
+      }
+    },
+    "This code expired. Choose Pair iPhone or iPad… on your Mac for a new one." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Este código caducó. Elige Enlazar iPhone o iPad… en tu Mac para obtener uno nuevo."
+          }
+        }
+      }
+    },
+    "This isn’t the %@ this %@ paired with. If RCL was set up again on it, forget it here and pair again." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "This isn’t the %1$@ this %2$@ paired with. If RCL was set up again on it, forget it here and pair again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esta no es la %1$@ con la que se enlazó este %2$@. Si RCL se configuró de nuevo en ella, olvídala aquí y enlaza de nuevo."
+          }
+        }
+      }
+    },
+    "This session continued on %@. Tap %@ to take it back." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "This session continued on %1$@. Tap %2$@ to take it back."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La sesión siguió en %1$@. Toca %2$@ para retomarla."
+          }
+        }
+      }
+    },
+    "This session continued on another device. Tap %@ to take it back." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La sesión siguió en otro dispositivo. Toca %@ para retomarla."
+          }
+        }
+      }
+    },
+    "This session shows up in the Dock of your other iPhone or iPad. Take it there and it carries on with the same window, and this %@ lets go." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esta sesión aparece en el Dock de tu otro iPhone o iPad. Tómala ahí y sigue con la misma ventana, y este %@ la suelta."
+          }
+        }
+      }
+    },
+    "this session's Mac" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "la Mac de esta sesión"
+          }
+        }
+      }
+    },
+    "Three fingers on the trackpad or over the stream." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tres dedos en el trackpad o sobre la transmisión."
+          }
+        }
+      }
+    },
+    "Three-Finger Gestures" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gestos con tres dedos"
+          }
+        }
+      }
+    },
+    "Three-finger strokes do nothing while this is off." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Los gestos con tres dedos no hacen nada mientras esto esté desactivado."
+          }
+        }
+      }
+    },
+    "through %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "a través de %@"
+          }
+        }
+      }
+    },
+    "through %@ (%@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "through %1$@ (%2$@)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "a través de %1$@ (%2$@)"
+          }
+        }
+      }
+    },
+    "through Tailscale's relay, slower" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "por el relevo de Tailscale, más lento"
+          }
+        }
+      }
+    },
+    "through your VPN" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "a través de tu VPN"
+          }
+        }
+      }
+    },
+    "through your VPN or the internet" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "a través de tu VPN o de internet"
+          }
+        }
+      }
+    },
+    "To find your Mac, allow Local Network for RCL in Settings." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Para encontrar tu Mac, permite Red local para RCL en Ajustes."
+          }
+        }
+      }
+    },
+    "To reach %@ away from home, turn on Remote Access in RCL’s Settings on the Mac." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Para llegar a %@ fuera de casa, activa Acceso remoto en los Ajustes de RCL en la Mac."
+          }
+        }
+      }
+    },
+    "To reach %@, allow Local Network for RCL in Settings." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Para llegar a %@, permite Red local para RCL en Ajustes."
+          }
+        }
+      }
+    },
+    "Too large to send: %1$@ takes images up to %2$lld MB." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Demasiado grande para enviar: %1$@ acepta imágenes de hasta %2$lld MB."
+          }
+        }
+      }
+    },
+    "Too long to send: %1$@ takes up to %2$@ of text." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Demasiado largo para enviar: %1$@ acepta hasta %2$@ de texto."
+          }
+        }
+      }
+    },
+    "Touch and hold" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mantén presionado"
+          }
+        }
+      }
+    },
+    "Turn your %@ on its side" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pon tu %@ de lado"
+          }
+        }
+      }
+    },
+    "Turning this off disconnects this %@." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si desactivas esto, este %@ se desconecta."
+          }
+        }
+      }
+    },
+    "Type on %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escribir en %@"
+          }
+        }
+      }
+    },
+    "Type on This iPhone" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escribir en este iPhone"
+          }
+        }
+      }
+    },
+    "Type or dictate…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escribe o dicta…"
+          }
+        }
+      }
+    },
+    "Type the address and code from your Mac." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escribe la dirección y el código de tu Mac."
+          }
+        }
+      }
+    },
+    "Type the address and code that RCL shows on your Mac." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escribe la dirección y el código que RCL muestra en tu Mac."
+          }
+        }
+      }
+    },
+    "Type the code %@ shows." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escribe el código que muestra %@."
+          }
+        }
+      }
+    },
+    "Ultra and Extreme need the USB cable or very fast Wi‑Fi; if the picture lags, step down." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ultra y Extrema necesitan el cable USB o un Wi‑Fi muy rápido; si la imagen se traba, baja la calidad."
+          }
+        }
+      }
+    },
+    "Under the buttons: the row of keys, then the trackpad." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Debajo de los botones: la fila de teclas y luego el trackpad."
+          }
+        }
+      }
+    },
+    "Under the picture, in the row of buttons: Apps, Aa and Keyboard." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Debajo de la imagen, en la fila de botones: Apps, Aa y Teclado."
+          }
+        }
+      }
+    },
+    "Under the picture: Aa and Keyboard in the first row, the windows in the second." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Debajo de la imagen: Aa y Teclado en la primera fila, las ventanas en la segunda."
+          }
+        }
+      }
+    },
+    "Under the windows: the row of keys, then the trackpad." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Debajo de las ventanas: la fila de teclas y luego el trackpad."
+          }
+        }
+      }
+    },
+    "Undo" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deshacer"
+          }
+        }
+      }
+    },
+    "Unlock" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desbloquear"
+          }
+        }
+      }
+    },
+    "Unlock %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desbloquear %@"
+          }
+        }
+      }
+    },
+    "Unlock %@, then choose Pair This %@… again." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Unlock %1$@, then choose Pair This %2$@… again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desbloquea %1$@ y vuelve a elegir Enlazar este %2$@…."
+          }
+        }
+      }
+    },
+    "Unlock %@, then tap it again." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desbloquea %@ y vuelve a tocarla."
+          }
+        }
+      }
+    },
+    "Up arrow" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flecha arriba"
+          }
+        }
+      }
+    },
+    "Update RCL" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actualizar RCL"
+          }
+        }
+      }
+    },
+    "Update RCL in the App Store" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actualizar RCL en el App Store"
+          }
+        }
+      }
+    },
+    "Update RCL on %@ to change these from here." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actualiza RCL en %@ para cambiar esto desde aquí."
+          }
+        }
+      }
+    },
+    "Update RCL on %@ to take screenshots." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actualiza RCL en %@ para tomar capturas de pantalla."
+          }
+        }
+      }
+    },
+    "Update RCL on %@ to use these." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actualiza RCL en %@ para usar esto."
+          }
+        }
+      }
+    },
+    "Update RCL on this %@ to keep using %@." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Update RCL on this %1$@ to keep using %2$@."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actualiza RCL en este %1$@ para seguir usando %2$@."
+          }
+        }
+      }
+    },
+    "Upright, RCL adds keys and a trackpad." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En vertical, RCL agrega teclas y un trackpad."
+          }
+        }
+      }
+    },
+    "Use %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usar %@"
+          }
+        }
+      }
+    },
+    "View Mac" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ver Mac"
+          }
+        }
+      }
+    },
+    "Virtual Display" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pantalla virtual"
+          }
+        }
+      }
+    },
+    "VoiceOver keeps three-finger gestures for itself, so the rows above do them on %@ instead." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VoiceOver se reserva los gestos con tres dedos, así que las filas de arriba los hacen en %@."
+          }
+        }
+      }
+    },
+    "Waiting for %@ to list its files." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esperando a que %@ muestre sus archivos."
+          }
+        }
+      }
+    },
+    "Waiting for %@…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esperando a %@…"
+          }
+        }
+      }
+    },
+    "Waiting to go to %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esperando para ir a %@"
+          }
+        }
+      }
+    },
+    "What you do here happens on %@." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lo que hagas aquí pasa en %@."
+          }
+        }
+      }
+    },
+    "When %@ is locked, RCL types it for you after Face ID. It stays on this %@ only, in the Keychain." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "When %1$@ is locked, RCL types it for you after Face ID. It stays on this %2$@ only, in the Keychain."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuando %1$@ esté bloqueada, RCL la escribe por ti después de Face ID. Se queda sólo en este %2$@, en el llavero."
+          }
+        }
+      }
+    },
+    "When the connection can’t keep up, this %@ lowers %@’s quality by itself, and brings it back to what you picked once the picture runs smoothly again." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "When the connection can’t keep up, this %1$@ lowers %2$@’s quality by itself, and brings it back to what you picked once the picture runs smoothly again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuando la conexión no aguanta, este %1$@ baja sola la calidad de %2$@ y la regresa a la que elegiste cuando la imagen vuelve a ir fluida."
+          }
+        }
+      }
+    },
+    "Which app?" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Qué app?"
+          }
+        }
+      }
+    },
+    "Wi‑Fi's path is gone, and there is no cable" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La ruta de Wi‑Fi desapareció y no hay cable"
+          }
+        }
+      }
+    },
+    "Wide Color (P3, 10-bit)" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Color amplio (P3, 10 bits)"
+          }
+        }
+      }
+    },
+    "Windows and Text Size" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ventanas y tamaño del texto"
+          }
+        }
+      }
+    },
+    "Wired" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por cable"
+          }
+        }
+      }
+    },
+    "your Mac" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "tu Mac"
+          }
+        }
+      }
+    },
+    "Your Mac has to be on the same Wi‑Fi network as this %@, or have Direct Wireless Connection turned on in RCL. Away from home, add it once with a code from your Mac." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu Mac debe estar en la misma red Wi‑Fi que este %@, o tener activada Conexión inalámbrica directa en RCL. Fuera de casa, agrégala una vez con un código de tu Mac."
+          }
+        }
+      }
+    },
+    "Your Own" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Los tuyos"
+          }
+        }
+      }
+    },
+    "your VPN" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "tu VPN"
+          }
+        }
+      }
+    },
+    "Your VPN looks off on this %@. Turn it on, then tap %@." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your VPN looks off on this %1$@. Turn it on, then tap %2$@."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu VPN parece desactivada en este %1$@. Actívala y luego toca %2$@."
+          }
+        }
+      }
+    },
+    "Zoom In" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acercar"
+          }
+        }
+      }
+    },
+    "Zoom Out" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alejar"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

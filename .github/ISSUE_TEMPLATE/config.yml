@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security problem privately
+    url: https://github.com/alfonsoleal/RCL/security/policy
+    about: Never in a public issue. SECURITY.md says how.

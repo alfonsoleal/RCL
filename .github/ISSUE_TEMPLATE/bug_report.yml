@@ -1,0 +1,78 @@
+name: Bug report
+description: Something in RCL doesn't work as it should.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        A security problem? Please don't report it here:
+        [SECURITY.md](https://github.com/alfonsoleal/RCL/security/policy) says how to report it
+        privately.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected, and what RCL did instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How to make it happen again
+      placeholder: |
+        1.
+        2.
+        3.
+  - type: input
+    id: mac
+    attributes:
+      label: Your Mac and its macOS
+      placeholder: MacBook Air (M3), macOS 26.1
+    validations:
+      required: true
+  - type: input
+    id: mac-sill
+    attributes:
+      label: the RCL Mac app's version
+      description: The line at the foot of RCL's Settings › General, such as "RCL 0.5.1 (563)".
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Your iPhone or iPad and its iOS or iPadOS
+      placeholder: iPad mini (A17 Pro), iPadOS 26.1
+    validations:
+      required: true
+  - type: input
+    id: device-sill
+    attributes:
+      label: The RCL app's version
+      description: >-
+        Settings › General › iPhone Storage (or iPad Storage) › RCL shows it. RCL's log on your
+        Mac names it too, on its "Client hello" line.
+  - type: dropdown
+    id: route
+    attributes:
+      label: How the device reached the Mac
+      description: The word at the end of your Mac's row on the device.
+      options:
+        - Wi-Fi
+        - Wired (USB cable)
+        - Direct (Direct Wireless Connection)
+        - Remote (Remote Access)
+        - Not paired (it asked to pair)
+        - Update RCL
+        - It didn't connect
+        - I don't know
+    validations:
+      required: true
+  - type: textarea
+    id: log
+    attributes:
+      label: RCL's log on your Mac
+      description: >-
+        Optional. Show Log… in the RCL menu, or ~/Library/Logs/RCL/RCL.log. Paste only the lines
+        around the problem. The log names your windows, your devices and their network addresses,
+        and this issue is public: take out what you don't want to share.
+      render: text

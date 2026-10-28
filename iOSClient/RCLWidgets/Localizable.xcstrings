@@ -1,0 +1,126 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Connect to Mac" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conectar a la Mac"
+          }
+        }
+      }
+    },
+    "Connect to your Mac, show its Desktop or turn on Private Mode." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conéctate a tu Mac, muestra su escritorio o activa el modo privado."
+          }
+        }
+      }
+    },
+    "Desktop" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escritorio"
+          }
+        }
+      }
+    },
+    "No Mac yet" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aún no hay Mac"
+          }
+        }
+      }
+    },
+    "Opens RCL and connects to the last Mac." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abre RCL y se conecta a la última Mac."
+          }
+        }
+      }
+    },
+    "Pair a Mac" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Empareja una Mac"
+          }
+        }
+      }
+    },
+    "Pair a Mac in RCL to connect from here." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Empareja una Mac en RCL para conectarte desde aquí."
+          }
+        }
+      }
+    },
+    "Pair one in RCL" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Empareja una en RCL"
+          }
+        }
+      }
+    },
+    "Private" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privado"
+          }
+        }
+      }
+    },
+    "RCL" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RCL"
+          }
+        }
+      }
+    },
+    "Tap to connect" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toca para conectar"
+          }
+        }
+      }
+    },
+    "Your Mac" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu Mac"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

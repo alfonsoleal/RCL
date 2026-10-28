@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>Any File</string>
+			<key>LSHandlerRank</key>
+			<string>Alternate</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>public.item</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>me.alfonso.rcl.pair</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>rcl</string>
+			</array>
+		</dict>
+	</array>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>LSSupportsOpeningDocumentsInPlace</key>
+	<true/>
+	<key>NSBonjourServices</key>
+	<array>
+		<string>_rcl._tcp</string>
+		<string>_silltest._tcp</string>
+	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>RCL scans the code on your Mac to pair with it.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>RCL uses Face ID to type your Mac's password on its lock screen.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Finds your Mac on the local network.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>RCL saves screenshots of your Mac to Photos.</string>
+	<key>NSUserActivityTypes</key>
+	<array>
+		<string>me.alfonso.rcl.session</string>
+	</array>
+	<key>RCLSharedKeychainGroup</key>
+	<string>$(AppIdentifierPrefix)me.alfonso.rcl.shared</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Fonts/Geist-Light.ttf</string>
+		<string>Fonts/Geist-Regular.ttf</string>
+		<string>Fonts/Geist-Medium.ttf</string>
+		<string>Fonts/Geist-SemiBold.ttf</string>
+		<string>Fonts/Geist-Bold.ttf</string>
+		<string>Fonts/Geist-Black.ttf</string>
+	</array>
+	<key>UIFileSharingEnabled</key>
+	<true/>
+</dict>
+</plist>
